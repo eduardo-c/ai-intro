@@ -3,7 +3,7 @@ Repositorio para la materia "Introduccion a la Inteligencia Artificial"
 
 **Facultad de Matemáticas — Universidad Autónoma de Yucatán**  
 **Programa:** Maestría en Inteligencia Artificial (MIA)  
-**Modalidad:** Presencial  
+**Docente:** Dr. Victor Uc Cetina
 
 ---
 
