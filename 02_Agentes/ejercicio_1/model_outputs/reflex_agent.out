@@ -1,0 +1,2010 @@
+Step 0  Score 0  IN CAVE
+ 4 | .  .  .  G 
+ 3 | .  P  .  . 
+ 2 | .  P  W  P 
+ 1 | >  .  .  . 
+      1  2  3  4
+Percept [None]
+Agent: simple-reflex
+----------------------------------------
+Action: Forward
+Step 1  Score -1.0  IN CAVE
+ 4 | .  .  .  G 
+ 3 | .  P  .  . 
+ 2 | .  P  W  P 
+ 1 | .  >  .  . 
+      1  2  3  4
+Percept [Breeze]
+Reward -1  (moved)
+----------------------------------------
+Action: TurnRight
+Step 2  Score -2.0  IN CAVE
+ 4 | .  .  .  G 
+ 3 | .  P  .  . 
+ 2 | .  P  W  P 
+ 1 | .  v  .  . 
+      1  2  3  4
+Percept [Breeze]
+Reward -1  (ok)
+----------------------------------------
+Action: TurnRight
+Step 3  Score -3.0  IN CAVE
+ 4 | .  .  .  G 
+ 3 | .  P  .  . 
+ 2 | .  P  W  P 
+ 1 | .  <  .  . 
+      1  2  3  4
+Percept [Breeze]
+Reward -1  (ok)
+----------------------------------------
+Action: TurnRight
+Step 4  Score -4.0  IN CAVE
+ 4 | .  .  .  G 
+ 3 | .  P  .  . 
+ 2 | .  P  W  P 
+ 1 | .  ^  .  . 
+      1  2  3  4
+Percept [Breeze]
+Reward -1  (ok)
+----------------------------------------
+Action: TurnRight
+Step 5  Score -5.0  IN CAVE
+ 4 | .  .  .  G 
+ 3 | .  P  .  . 
+ 2 | .  P  W  P 
+ 1 | .  >  .  . 
+      1  2  3  4
+Percept [Breeze]
+Reward -1  (ok)
+----------------------------------------
+Action: TurnRight
+Step 6  Score -6.0  IN CAVE
+ 4 | .  .  .  G 
+ 3 | .  P  .  . 
+ 2 | .  P  W  P 
+ 1 | .  v  .  . 
+      1  2  3  4
+Percept [Breeze]
+Reward -1  (ok)
+----------------------------------------
+Action: TurnRight
+Step 7  Score -7.0  IN CAVE
+ 4 | .  .  .  G 
+ 3 | .  P  .  . 
+ 2 | .  P  W  P 
+ 1 | .  <  .  . 
+      1  2  3  4
+Percept [Breeze]
+Reward -1  (ok)
+----------------------------------------
+Action: TurnRight
+Step 8  Score -8.0  IN CAVE
+ 4 | .  .  .  G 
+ 3 | .  P  .  . 
+ 2 | .  P  W  P 
+ 1 | .  ^  .  . 
+      1  2  3  4
+Percept [Breeze]
+Reward -1  (ok)
+----------------------------------------
+Action: TurnRight
+Step 9  Score -9.0  IN CAVE
+ 4 | .  .  .  G 
+ 3 | .  P  .  . 
+ 2 | .  P  W  P 
+ 1 | .  >  .  . 
+      1  2  3  4
+Percept [Breeze]
+Reward -1  (ok)
+----------------------------------------
+Action: TurnRight
+Step 10  Score -10.0  IN CAVE
+ 4 | .  .  .  G 
+ 3 | .  P  .  . 
+ 2 | .  P  W  P 
+ 1 | .  v  .  . 
+      1  2  3  4
+Percept [Breeze]
+Reward -1  (ok)
+----------------------------------------
+Action: TurnRight
+Step 11  Score -11.0  IN CAVE
+ 4 | .  .  .  G 
+ 3 | .  P  .  . 
+ 2 | .  P  W  P 
+ 1 | .  <  .  . 
+      1  2  3  4
+Percept [Breeze]
+Reward -1  (ok)
+----------------------------------------
+Action: TurnRight
+Step 12  Score -12.0  IN CAVE
+ 4 | .  .  .  G 
+ 3 | .  P  .  . 
+ 2 | .  P  W  P 
+ 1 | .  ^  .  . 
+      1  2  3  4
+Percept [Breeze]
+Reward -1  (ok)
+----------------------------------------
+Action: TurnRight
+Step 13  Score -13.0  IN CAVE
+ 4 | .  .  .  G 
+ 3 | .  P  .  . 
+ 2 | .  P  W  P 
+ 1 | .  >  .  . 
+      1  2  3  4
+Percept [Breeze]
+Reward -1  (ok)
+----------------------------------------
+Action: TurnRight
+Step 14  Score -14.0  IN CAVE
+ 4 | .  .  .  G 
+ 3 | .  P  .  . 
+ 2 | .  P  W  P 
+ 1 | .  v  .  . 
+      1  2  3  4
+Percept [Breeze]
+Reward -1  (ok)
+----------------------------------------
+Action: TurnRight
+Step 15  Score -15.0  IN CAVE
+ 4 | .  .  .  G 
+ 3 | .  P  .  . 
+ 2 | .  P  W  P 
+ 1 | .  <  .  . 
+      1  2  3  4
+Percept [Breeze]
+Reward -1  (ok)
+----------------------------------------
+Action: TurnRight
+Step 16  Score -16.0  IN CAVE
+ 4 | .  .  .  G 
+ 3 | .  P  .  . 
+ 2 | .  P  W  P 
+ 1 | .  ^  .  . 
+      1  2  3  4
+Percept [Breeze]
+Reward -1  (ok)
+----------------------------------------
+Action: TurnRight
+Step 17  Score -17.0  IN CAVE
+ 4 | .  .  .  G 
+ 3 | .  P  .  . 
+ 2 | .  P  W  P 
+ 1 | .  >  .  . 
+      1  2  3  4
+Percept [Breeze]
+Reward -1  (ok)
+----------------------------------------
+Action: TurnRight
+Step 18  Score -18.0  IN CAVE
+ 4 | .  .  .  G 
+ 3 | .  P  .  . 
+ 2 | .  P  W  P 
+ 1 | .  v  .  . 
+      1  2  3  4
+Percept [Breeze]
+Reward -1  (ok)
+----------------------------------------
+Action: TurnRight
+Step 19  Score -19.0  IN CAVE
+ 4 | .  .  .  G 
+ 3 | .  P  .  . 
+ 2 | .  P  W  P 
+ 1 | .  <  .  . 
+      1  2  3  4
+Percept [Breeze]
+Reward -1  (ok)
+----------------------------------------
+Action: TurnRight
+Step 20  Score -20.0  IN CAVE
+ 4 | .  .  .  G 
+ 3 | .  P  .  . 
+ 2 | .  P  W  P 
+ 1 | .  ^  .  . 
+      1  2  3  4
+Percept [Breeze]
+Reward -1  (ok)
+----------------------------------------
+Action: TurnRight
+Step 21  Score -21.0  IN CAVE
+ 4 | .  .  .  G 
+ 3 | .  P  .  . 
+ 2 | .  P  W  P 
+ 1 | .  >  .  . 
+      1  2  3  4
+Percept [Breeze]
+Reward -1  (ok)
+----------------------------------------
+Action: TurnRight
+Step 22  Score -22.0  IN CAVE
+ 4 | .  .  .  G 
+ 3 | .  P  .  . 
+ 2 | .  P  W  P 
+ 1 | .  v  .  . 
+      1  2  3  4
+Percept [Breeze]
+Reward -1  (ok)
+----------------------------------------
+Action: TurnRight
+Step 23  Score -23.0  IN CAVE
+ 4 | .  .  .  G 
+ 3 | .  P  .  . 
+ 2 | .  P  W  P 
+ 1 | .  <  .  . 
+      1  2  3  4
+Percept [Breeze]
+Reward -1  (ok)
+----------------------------------------
+Action: TurnRight
+Step 24  Score -24.0  IN CAVE
+ 4 | .  .  .  G 
+ 3 | .  P  .  . 
+ 2 | .  P  W  P 
+ 1 | .  ^  .  . 
+      1  2  3  4
+Percept [Breeze]
+Reward -1  (ok)
+----------------------------------------
+Action: TurnRight
+Step 25  Score -25.0  IN CAVE
+ 4 | .  .  .  G 
+ 3 | .  P  .  . 
+ 2 | .  P  W  P 
+ 1 | .  >  .  . 
+      1  2  3  4
+Percept [Breeze]
+Reward -1  (ok)
+----------------------------------------
+Action: TurnRight
+Step 26  Score -26.0  IN CAVE
+ 4 | .  .  .  G 
+ 3 | .  P  .  . 
+ 2 | .  P  W  P 
+ 1 | .  v  .  . 
+      1  2  3  4
+Percept [Breeze]
+Reward -1  (ok)
+----------------------------------------
+Action: TurnRight
+Step 27  Score -27.0  IN CAVE
+ 4 | .  .  .  G 
+ 3 | .  P  .  . 
+ 2 | .  P  W  P 
+ 1 | .  <  .  . 
+      1  2  3  4
+Percept [Breeze]
+Reward -1  (ok)
+----------------------------------------
+Action: TurnRight
+Step 28  Score -28.0  IN CAVE
+ 4 | .  .  .  G 
+ 3 | .  P  .  . 
+ 2 | .  P  W  P 
+ 1 | .  ^  .  . 
+      1  2  3  4
+Percept [Breeze]
+Reward -1  (ok)
+----------------------------------------
+Action: TurnRight
+Step 29  Score -29.0  IN CAVE
+ 4 | .  .  .  G 
+ 3 | .  P  .  . 
+ 2 | .  P  W  P 
+ 1 | .  >  .  . 
+      1  2  3  4
+Percept [Breeze]
+Reward -1  (ok)
+----------------------------------------
+Action: TurnRight
+Step 30  Score -30.0  IN CAVE
+ 4 | .  .  .  G 
+ 3 | .  P  .  . 
+ 2 | .  P  W  P 
+ 1 | .  v  .  . 
+      1  2  3  4
+Percept [Breeze]
+Reward -1  (ok)
+----------------------------------------
+Action: TurnRight
+Step 31  Score -31.0  IN CAVE
+ 4 | .  .  .  G 
+ 3 | .  P  .  . 
+ 2 | .  P  W  P 
+ 1 | .  <  .  . 
+      1  2  3  4
+Percept [Breeze]
+Reward -1  (ok)
+----------------------------------------
+Action: TurnRight
+Step 32  Score -32.0  IN CAVE
+ 4 | .  .  .  G 
+ 3 | .  P  .  . 
+ 2 | .  P  W  P 
+ 1 | .  ^  .  . 
+      1  2  3  4
+Percept [Breeze]
+Reward -1  (ok)
+----------------------------------------
+Action: TurnRight
+Step 33  Score -33.0  IN CAVE
+ 4 | .  .  .  G 
+ 3 | .  P  .  . 
+ 2 | .  P  W  P 
+ 1 | .  >  .  . 
+      1  2  3  4
+Percept [Breeze]
+Reward -1  (ok)
+----------------------------------------
+Action: TurnRight
+Step 34  Score -34.0  IN CAVE
+ 4 | .  .  .  G 
+ 3 | .  P  .  . 
+ 2 | .  P  W  P 
+ 1 | .  v  .  . 
+      1  2  3  4
+Percept [Breeze]
+Reward -1  (ok)
+----------------------------------------
+Action: TurnRight
+Step 35  Score -35.0  IN CAVE
+ 4 | .  .  .  G 
+ 3 | .  P  .  . 
+ 2 | .  P  W  P 
+ 1 | .  <  .  . 
+      1  2  3  4
+Percept [Breeze]
+Reward -1  (ok)
+----------------------------------------
+Action: TurnRight
+Step 36  Score -36.0  IN CAVE
+ 4 | .  .  .  G 
+ 3 | .  P  .  . 
+ 2 | .  P  W  P 
+ 1 | .  ^  .  . 
+      1  2  3  4
+Percept [Breeze]
+Reward -1  (ok)
+----------------------------------------
+Action: TurnRight
+Step 37  Score -37.0  IN CAVE
+ 4 | .  .  .  G 
+ 3 | .  P  .  . 
+ 2 | .  P  W  P 
+ 1 | .  >  .  . 
+      1  2  3  4
+Percept [Breeze]
+Reward -1  (ok)
+----------------------------------------
+Action: TurnRight
+Step 38  Score -38.0  IN CAVE
+ 4 | .  .  .  G 
+ 3 | .  P  .  . 
+ 2 | .  P  W  P 
+ 1 | .  v  .  . 
+      1  2  3  4
+Percept [Breeze]
+Reward -1  (ok)
+----------------------------------------
+Action: TurnRight
+Step 39  Score -39.0  IN CAVE
+ 4 | .  .  .  G 
+ 3 | .  P  .  . 
+ 2 | .  P  W  P 
+ 1 | .  <  .  . 
+      1  2  3  4
+Percept [Breeze]
+Reward -1  (ok)
+----------------------------------------
+Action: TurnRight
+Step 40  Score -40.0  IN CAVE
+ 4 | .  .  .  G 
+ 3 | .  P  .  . 
+ 2 | .  P  W  P 
+ 1 | .  ^  .  . 
+      1  2  3  4
+Percept [Breeze]
+Reward -1  (ok)
+----------------------------------------
+Action: TurnRight
+Step 41  Score -41.0  IN CAVE
+ 4 | .  .  .  G 
+ 3 | .  P  .  . 
+ 2 | .  P  W  P 
+ 1 | .  >  .  . 
+      1  2  3  4
+Percept [Breeze]
+Reward -1  (ok)
+----------------------------------------
+Action: TurnRight
+Step 42  Score -42.0  IN CAVE
+ 4 | .  .  .  G 
+ 3 | .  P  .  . 
+ 2 | .  P  W  P 
+ 1 | .  v  .  . 
+      1  2  3  4
+Percept [Breeze]
+Reward -1  (ok)
+----------------------------------------
+Action: TurnRight
+Step 43  Score -43.0  IN CAVE
+ 4 | .  .  .  G 
+ 3 | .  P  .  . 
+ 2 | .  P  W  P 
+ 1 | .  <  .  . 
+      1  2  3  4
+Percept [Breeze]
+Reward -1  (ok)
+----------------------------------------
+Action: TurnRight
+Step 44  Score -44.0  IN CAVE
+ 4 | .  .  .  G 
+ 3 | .  P  .  . 
+ 2 | .  P  W  P 
+ 1 | .  ^  .  . 
+      1  2  3  4
+Percept [Breeze]
+Reward -1  (ok)
+----------------------------------------
+Action: TurnRight
+Step 45  Score -45.0  IN CAVE
+ 4 | .  .  .  G 
+ 3 | .  P  .  . 
+ 2 | .  P  W  P 
+ 1 | .  >  .  . 
+      1  2  3  4
+Percept [Breeze]
+Reward -1  (ok)
+----------------------------------------
+Action: TurnRight
+Step 46  Score -46.0  IN CAVE
+ 4 | .  .  .  G 
+ 3 | .  P  .  . 
+ 2 | .  P  W  P 
+ 1 | .  v  .  . 
+      1  2  3  4
+Percept [Breeze]
+Reward -1  (ok)
+----------------------------------------
+Action: TurnRight
+Step 47  Score -47.0  IN CAVE
+ 4 | .  .  .  G 
+ 3 | .  P  .  . 
+ 2 | .  P  W  P 
+ 1 | .  <  .  . 
+      1  2  3  4
+Percept [Breeze]
+Reward -1  (ok)
+----------------------------------------
+Action: TurnRight
+Step 48  Score -48.0  IN CAVE
+ 4 | .  .  .  G 
+ 3 | .  P  .  . 
+ 2 | .  P  W  P 
+ 1 | .  ^  .  . 
+      1  2  3  4
+Percept [Breeze]
+Reward -1  (ok)
+----------------------------------------
+Action: TurnRight
+Step 49  Score -49.0  IN CAVE
+ 4 | .  .  .  G 
+ 3 | .  P  .  . 
+ 2 | .  P  W  P 
+ 1 | .  >  .  . 
+      1  2  3  4
+Percept [Breeze]
+Reward -1  (ok)
+----------------------------------------
+Action: TurnRight
+Step 50  Score -50.0  IN CAVE
+ 4 | .  .  .  G 
+ 3 | .  P  .  . 
+ 2 | .  P  W  P 
+ 1 | .  v  .  . 
+      1  2  3  4
+Percept [Breeze]
+Reward -1  (ok)
+----------------------------------------
+Action: TurnRight
+Step 51  Score -51.0  IN CAVE
+ 4 | .  .  .  G 
+ 3 | .  P  .  . 
+ 2 | .  P  W  P 
+ 1 | .  <  .  . 
+      1  2  3  4
+Percept [Breeze]
+Reward -1  (ok)
+----------------------------------------
+Action: TurnRight
+Step 52  Score -52.0  IN CAVE
+ 4 | .  .  .  G 
+ 3 | .  P  .  . 
+ 2 | .  P  W  P 
+ 1 | .  ^  .  . 
+      1  2  3  4
+Percept [Breeze]
+Reward -1  (ok)
+----------------------------------------
+Action: TurnRight
+Step 53  Score -53.0  IN CAVE
+ 4 | .  .  .  G 
+ 3 | .  P  .  . 
+ 2 | .  P  W  P 
+ 1 | .  >  .  . 
+      1  2  3  4
+Percept [Breeze]
+Reward -1  (ok)
+----------------------------------------
+Action: TurnRight
+Step 54  Score -54.0  IN CAVE
+ 4 | .  .  .  G 
+ 3 | .  P  .  . 
+ 2 | .  P  W  P 
+ 1 | .  v  .  . 
+      1  2  3  4
+Percept [Breeze]
+Reward -1  (ok)
+----------------------------------------
+Action: TurnRight
+Step 55  Score -55.0  IN CAVE
+ 4 | .  .  .  G 
+ 3 | .  P  .  . 
+ 2 | .  P  W  P 
+ 1 | .  <  .  . 
+      1  2  3  4
+Percept [Breeze]
+Reward -1  (ok)
+----------------------------------------
+Action: TurnRight
+Step 56  Score -56.0  IN CAVE
+ 4 | .  .  .  G 
+ 3 | .  P  .  . 
+ 2 | .  P  W  P 
+ 1 | .  ^  .  . 
+      1  2  3  4
+Percept [Breeze]
+Reward -1  (ok)
+----------------------------------------
+Action: TurnRight
+Step 57  Score -57.0  IN CAVE
+ 4 | .  .  .  G 
+ 3 | .  P  .  . 
+ 2 | .  P  W  P 
+ 1 | .  >  .  . 
+      1  2  3  4
+Percept [Breeze]
+Reward -1  (ok)
+----------------------------------------
+Action: TurnRight
+Step 58  Score -58.0  IN CAVE
+ 4 | .  .  .  G 
+ 3 | .  P  .  . 
+ 2 | .  P  W  P 
+ 1 | .  v  .  . 
+      1  2  3  4
+Percept [Breeze]
+Reward -1  (ok)
+----------------------------------------
+Action: TurnRight
+Step 59  Score -59.0  IN CAVE
+ 4 | .  .  .  G 
+ 3 | .  P  .  . 
+ 2 | .  P  W  P 
+ 1 | .  <  .  . 
+      1  2  3  4
+Percept [Breeze]
+Reward -1  (ok)
+----------------------------------------
+Action: TurnRight
+Step 60  Score -60.0  IN CAVE
+ 4 | .  .  .  G 
+ 3 | .  P  .  . 
+ 2 | .  P  W  P 
+ 1 | .  ^  .  . 
+      1  2  3  4
+Percept [Breeze]
+Reward -1  (ok)
+----------------------------------------
+Action: TurnRight
+Step 61  Score -61.0  IN CAVE
+ 4 | .  .  .  G 
+ 3 | .  P  .  . 
+ 2 | .  P  W  P 
+ 1 | .  >  .  . 
+      1  2  3  4
+Percept [Breeze]
+Reward -1  (ok)
+----------------------------------------
+Action: TurnRight
+Step 62  Score -62.0  IN CAVE
+ 4 | .  .  .  G 
+ 3 | .  P  .  . 
+ 2 | .  P  W  P 
+ 1 | .  v  .  . 
+      1  2  3  4
+Percept [Breeze]
+Reward -1  (ok)
+----------------------------------------
+Action: TurnRight
+Step 63  Score -63.0  IN CAVE
+ 4 | .  .  .  G 
+ 3 | .  P  .  . 
+ 2 | .  P  W  P 
+ 1 | .  <  .  . 
+      1  2  3  4
+Percept [Breeze]
+Reward -1  (ok)
+----------------------------------------
+Action: TurnRight
+Step 64  Score -64.0  IN CAVE
+ 4 | .  .  .  G 
+ 3 | .  P  .  . 
+ 2 | .  P  W  P 
+ 1 | .  ^  .  . 
+      1  2  3  4
+Percept [Breeze]
+Reward -1  (ok)
+----------------------------------------
+Action: TurnRight
+Step 65  Score -65.0  IN CAVE
+ 4 | .  .  .  G 
+ 3 | .  P  .  . 
+ 2 | .  P  W  P 
+ 1 | .  >  .  . 
+      1  2  3  4
+Percept [Breeze]
+Reward -1  (ok)
+----------------------------------------
+Action: TurnRight
+Step 66  Score -66.0  IN CAVE
+ 4 | .  .  .  G 
+ 3 | .  P  .  . 
+ 2 | .  P  W  P 
+ 1 | .  v  .  . 
+      1  2  3  4
+Percept [Breeze]
+Reward -1  (ok)
+----------------------------------------
+Action: TurnRight
+Step 67  Score -67.0  IN CAVE
+ 4 | .  .  .  G 
+ 3 | .  P  .  . 
+ 2 | .  P  W  P 
+ 1 | .  <  .  . 
+      1  2  3  4
+Percept [Breeze]
+Reward -1  (ok)
+----------------------------------------
+Action: TurnRight
+Step 68  Score -68.0  IN CAVE
+ 4 | .  .  .  G 
+ 3 | .  P  .  . 
+ 2 | .  P  W  P 
+ 1 | .  ^  .  . 
+      1  2  3  4
+Percept [Breeze]
+Reward -1  (ok)
+----------------------------------------
+Action: TurnRight
+Step 69  Score -69.0  IN CAVE
+ 4 | .  .  .  G 
+ 3 | .  P  .  . 
+ 2 | .  P  W  P 
+ 1 | .  >  .  . 
+      1  2  3  4
+Percept [Breeze]
+Reward -1  (ok)
+----------------------------------------
+Action: TurnRight
+Step 70  Score -70.0  IN CAVE
+ 4 | .  .  .  G 
+ 3 | .  P  .  . 
+ 2 | .  P  W  P 
+ 1 | .  v  .  . 
+      1  2  3  4
+Percept [Breeze]
+Reward -1  (ok)
+----------------------------------------
+Action: TurnRight
+Step 71  Score -71.0  IN CAVE
+ 4 | .  .  .  G 
+ 3 | .  P  .  . 
+ 2 | .  P  W  P 
+ 1 | .  <  .  . 
+      1  2  3  4
+Percept [Breeze]
+Reward -1  (ok)
+----------------------------------------
+Action: TurnRight
+Step 72  Score -72.0  IN CAVE
+ 4 | .  .  .  G 
+ 3 | .  P  .  . 
+ 2 | .  P  W  P 
+ 1 | .  ^  .  . 
+      1  2  3  4
+Percept [Breeze]
+Reward -1  (ok)
+----------------------------------------
+Action: TurnRight
+Step 73  Score -73.0  IN CAVE
+ 4 | .  .  .  G 
+ 3 | .  P  .  . 
+ 2 | .  P  W  P 
+ 1 | .  >  .  . 
+      1  2  3  4
+Percept [Breeze]
+Reward -1  (ok)
+----------------------------------------
+Action: TurnRight
+Step 74  Score -74.0  IN CAVE
+ 4 | .  .  .  G 
+ 3 | .  P  .  . 
+ 2 | .  P  W  P 
+ 1 | .  v  .  . 
+      1  2  3  4
+Percept [Breeze]
+Reward -1  (ok)
+----------------------------------------
+Action: TurnRight
+Step 75  Score -75.0  IN CAVE
+ 4 | .  .  .  G 
+ 3 | .  P  .  . 
+ 2 | .  P  W  P 
+ 1 | .  <  .  . 
+      1  2  3  4
+Percept [Breeze]
+Reward -1  (ok)
+----------------------------------------
+Action: TurnRight
+Step 76  Score -76.0  IN CAVE
+ 4 | .  .  .  G 
+ 3 | .  P  .  . 
+ 2 | .  P  W  P 
+ 1 | .  ^  .  . 
+      1  2  3  4
+Percept [Breeze]
+Reward -1  (ok)
+----------------------------------------
+Action: TurnRight
+Step 77  Score -77.0  IN CAVE
+ 4 | .  .  .  G 
+ 3 | .  P  .  . 
+ 2 | .  P  W  P 
+ 1 | .  >  .  . 
+      1  2  3  4
+Percept [Breeze]
+Reward -1  (ok)
+----------------------------------------
+Action: TurnRight
+Step 78  Score -78.0  IN CAVE
+ 4 | .  .  .  G 
+ 3 | .  P  .  . 
+ 2 | .  P  W  P 
+ 1 | .  v  .  . 
+      1  2  3  4
+Percept [Breeze]
+Reward -1  (ok)
+----------------------------------------
+Action: TurnRight
+Step 79  Score -79.0  IN CAVE
+ 4 | .  .  .  G 
+ 3 | .  P  .  . 
+ 2 | .  P  W  P 
+ 1 | .  <  .  . 
+      1  2  3  4
+Percept [Breeze]
+Reward -1  (ok)
+----------------------------------------
+Action: TurnRight
+Step 80  Score -80.0  IN CAVE
+ 4 | .  .  .  G 
+ 3 | .  P  .  . 
+ 2 | .  P  W  P 
+ 1 | .  ^  .  . 
+      1  2  3  4
+Percept [Breeze]
+Reward -1  (ok)
+----------------------------------------
+Action: TurnRight
+Step 81  Score -81.0  IN CAVE
+ 4 | .  .  .  G 
+ 3 | .  P  .  . 
+ 2 | .  P  W  P 
+ 1 | .  >  .  . 
+      1  2  3  4
+Percept [Breeze]
+Reward -1  (ok)
+----------------------------------------
+Action: TurnRight
+Step 82  Score -82.0  IN CAVE
+ 4 | .  .  .  G 
+ 3 | .  P  .  . 
+ 2 | .  P  W  P 
+ 1 | .  v  .  . 
+      1  2  3  4
+Percept [Breeze]
+Reward -1  (ok)
+----------------------------------------
+Action: TurnRight
+Step 83  Score -83.0  IN CAVE
+ 4 | .  .  .  G 
+ 3 | .  P  .  . 
+ 2 | .  P  W  P 
+ 1 | .  <  .  . 
+      1  2  3  4
+Percept [Breeze]
+Reward -1  (ok)
+----------------------------------------
+Action: TurnRight
+Step 84  Score -84.0  IN CAVE
+ 4 | .  .  .  G 
+ 3 | .  P  .  . 
+ 2 | .  P  W  P 
+ 1 | .  ^  .  . 
+      1  2  3  4
+Percept [Breeze]
+Reward -1  (ok)
+----------------------------------------
+Action: TurnRight
+Step 85  Score -85.0  IN CAVE
+ 4 | .  .  .  G 
+ 3 | .  P  .  . 
+ 2 | .  P  W  P 
+ 1 | .  >  .  . 
+      1  2  3  4
+Percept [Breeze]
+Reward -1  (ok)
+----------------------------------------
+Action: TurnRight
+Step 86  Score -86.0  IN CAVE
+ 4 | .  .  .  G 
+ 3 | .  P  .  . 
+ 2 | .  P  W  P 
+ 1 | .  v  .  . 
+      1  2  3  4
+Percept [Breeze]
+Reward -1  (ok)
+----------------------------------------
+Action: TurnRight
+Step 87  Score -87.0  IN CAVE
+ 4 | .  .  .  G 
+ 3 | .  P  .  . 
+ 2 | .  P  W  P 
+ 1 | .  <  .  . 
+      1  2  3  4
+Percept [Breeze]
+Reward -1  (ok)
+----------------------------------------
+Action: TurnRight
+Step 88  Score -88.0  IN CAVE
+ 4 | .  .  .  G 
+ 3 | .  P  .  . 
+ 2 | .  P  W  P 
+ 1 | .  ^  .  . 
+      1  2  3  4
+Percept [Breeze]
+Reward -1  (ok)
+----------------------------------------
+Action: TurnRight
+Step 89  Score -89.0  IN CAVE
+ 4 | .  .  .  G 
+ 3 | .  P  .  . 
+ 2 | .  P  W  P 
+ 1 | .  >  .  . 
+      1  2  3  4
+Percept [Breeze]
+Reward -1  (ok)
+----------------------------------------
+Action: TurnRight
+Step 90  Score -90.0  IN CAVE
+ 4 | .  .  .  G 
+ 3 | .  P  .  . 
+ 2 | .  P  W  P 
+ 1 | .  v  .  . 
+      1  2  3  4
+Percept [Breeze]
+Reward -1  (ok)
+----------------------------------------
+Action: TurnRight
+Step 91  Score -91.0  IN CAVE
+ 4 | .  .  .  G 
+ 3 | .  P  .  . 
+ 2 | .  P  W  P 
+ 1 | .  <  .  . 
+      1  2  3  4
+Percept [Breeze]
+Reward -1  (ok)
+----------------------------------------
+Action: TurnRight
+Step 92  Score -92.0  IN CAVE
+ 4 | .  .  .  G 
+ 3 | .  P  .  . 
+ 2 | .  P  W  P 
+ 1 | .  ^  .  . 
+      1  2  3  4
+Percept [Breeze]
+Reward -1  (ok)
+----------------------------------------
+Action: TurnRight
+Step 93  Score -93.0  IN CAVE
+ 4 | .  .  .  G 
+ 3 | .  P  .  . 
+ 2 | .  P  W  P 
+ 1 | .  >  .  . 
+      1  2  3  4
+Percept [Breeze]
+Reward -1  (ok)
+----------------------------------------
+Action: TurnRight
+Step 94  Score -94.0  IN CAVE
+ 4 | .  .  .  G 
+ 3 | .  P  .  . 
+ 2 | .  P  W  P 
+ 1 | .  v  .  . 
+      1  2  3  4
+Percept [Breeze]
+Reward -1  (ok)
+----------------------------------------
+Action: TurnRight
+Step 95  Score -95.0  IN CAVE
+ 4 | .  .  .  G 
+ 3 | .  P  .  . 
+ 2 | .  P  W  P 
+ 1 | .  <  .  . 
+      1  2  3  4
+Percept [Breeze]
+Reward -1  (ok)
+----------------------------------------
+Action: TurnRight
+Step 96  Score -96.0  IN CAVE
+ 4 | .  .  .  G 
+ 3 | .  P  .  . 
+ 2 | .  P  W  P 
+ 1 | .  ^  .  . 
+      1  2  3  4
+Percept [Breeze]
+Reward -1  (ok)
+----------------------------------------
+Action: TurnRight
+Step 97  Score -97.0  IN CAVE
+ 4 | .  .  .  G 
+ 3 | .  P  .  . 
+ 2 | .  P  W  P 
+ 1 | .  >  .  . 
+      1  2  3  4
+Percept [Breeze]
+Reward -1  (ok)
+----------------------------------------
+Action: TurnRight
+Step 98  Score -98.0  IN CAVE
+ 4 | .  .  .  G 
+ 3 | .  P  .  . 
+ 2 | .  P  W  P 
+ 1 | .  v  .  . 
+      1  2  3  4
+Percept [Breeze]
+Reward -1  (ok)
+----------------------------------------
+Action: TurnRight
+Step 99  Score -99.0  IN CAVE
+ 4 | .  .  .  G 
+ 3 | .  P  .  . 
+ 2 | .  P  W  P 
+ 1 | .  <  .  . 
+      1  2  3  4
+Percept [Breeze]
+Reward -1  (ok)
+----------------------------------------
+Action: TurnRight
+Step 100  Score -100.0  IN CAVE
+ 4 | .  .  .  G 
+ 3 | .  P  .  . 
+ 2 | .  P  W  P 
+ 1 | .  ^  .  . 
+      1  2  3  4
+Percept [Breeze]
+Reward -1  (ok)
+----------------------------------------
+Action: TurnRight
+Step 101  Score -101.0  IN CAVE
+ 4 | .  .  .  G 
+ 3 | .  P  .  . 
+ 2 | .  P  W  P 
+ 1 | .  >  .  . 
+      1  2  3  4
+Percept [Breeze]
+Reward -1  (ok)
+----------------------------------------
+Action: TurnRight
+Step 102  Score -102.0  IN CAVE
+ 4 | .  .  .  G 
+ 3 | .  P  .  . 
+ 2 | .  P  W  P 
+ 1 | .  v  .  . 
+      1  2  3  4
+Percept [Breeze]
+Reward -1  (ok)
+----------------------------------------
+Action: TurnRight
+Step 103  Score -103.0  IN CAVE
+ 4 | .  .  .  G 
+ 3 | .  P  .  . 
+ 2 | .  P  W  P 
+ 1 | .  <  .  . 
+      1  2  3  4
+Percept [Breeze]
+Reward -1  (ok)
+----------------------------------------
+Action: TurnRight
+Step 104  Score -104.0  IN CAVE
+ 4 | .  .  .  G 
+ 3 | .  P  .  . 
+ 2 | .  P  W  P 
+ 1 | .  ^  .  . 
+      1  2  3  4
+Percept [Breeze]
+Reward -1  (ok)
+----------------------------------------
+Action: TurnRight
+Step 105  Score -105.0  IN CAVE
+ 4 | .  .  .  G 
+ 3 | .  P  .  . 
+ 2 | .  P  W  P 
+ 1 | .  >  .  . 
+      1  2  3  4
+Percept [Breeze]
+Reward -1  (ok)
+----------------------------------------
+Action: TurnRight
+Step 106  Score -106.0  IN CAVE
+ 4 | .  .  .  G 
+ 3 | .  P  .  . 
+ 2 | .  P  W  P 
+ 1 | .  v  .  . 
+      1  2  3  4
+Percept [Breeze]
+Reward -1  (ok)
+----------------------------------------
+Action: TurnRight
+Step 107  Score -107.0  IN CAVE
+ 4 | .  .  .  G 
+ 3 | .  P  .  . 
+ 2 | .  P  W  P 
+ 1 | .  <  .  . 
+      1  2  3  4
+Percept [Breeze]
+Reward -1  (ok)
+----------------------------------------
+Action: TurnRight
+Step 108  Score -108.0  IN CAVE
+ 4 | .  .  .  G 
+ 3 | .  P  .  . 
+ 2 | .  P  W  P 
+ 1 | .  ^  .  . 
+      1  2  3  4
+Percept [Breeze]
+Reward -1  (ok)
+----------------------------------------
+Action: TurnRight
+Step 109  Score -109.0  IN CAVE
+ 4 | .  .  .  G 
+ 3 | .  P  .  . 
+ 2 | .  P  W  P 
+ 1 | .  >  .  . 
+      1  2  3  4
+Percept [Breeze]
+Reward -1  (ok)
+----------------------------------------
+Action: TurnRight
+Step 110  Score -110.0  IN CAVE
+ 4 | .  .  .  G 
+ 3 | .  P  .  . 
+ 2 | .  P  W  P 
+ 1 | .  v  .  . 
+      1  2  3  4
+Percept [Breeze]
+Reward -1  (ok)
+----------------------------------------
+Action: TurnRight
+Step 111  Score -111.0  IN CAVE
+ 4 | .  .  .  G 
+ 3 | .  P  .  . 
+ 2 | .  P  W  P 
+ 1 | .  <  .  . 
+      1  2  3  4
+Percept [Breeze]
+Reward -1  (ok)
+----------------------------------------
+Action: TurnRight
+Step 112  Score -112.0  IN CAVE
+ 4 | .  .  .  G 
+ 3 | .  P  .  . 
+ 2 | .  P  W  P 
+ 1 | .  ^  .  . 
+      1  2  3  4
+Percept [Breeze]
+Reward -1  (ok)
+----------------------------------------
+Action: TurnRight
+Step 113  Score -113.0  IN CAVE
+ 4 | .  .  .  G 
+ 3 | .  P  .  . 
+ 2 | .  P  W  P 
+ 1 | .  >  .  . 
+      1  2  3  4
+Percept [Breeze]
+Reward -1  (ok)
+----------------------------------------
+Action: TurnRight
+Step 114  Score -114.0  IN CAVE
+ 4 | .  .  .  G 
+ 3 | .  P  .  . 
+ 2 | .  P  W  P 
+ 1 | .  v  .  . 
+      1  2  3  4
+Percept [Breeze]
+Reward -1  (ok)
+----------------------------------------
+Action: TurnRight
+Step 115  Score -115.0  IN CAVE
+ 4 | .  .  .  G 
+ 3 | .  P  .  . 
+ 2 | .  P  W  P 
+ 1 | .  <  .  . 
+      1  2  3  4
+Percept [Breeze]
+Reward -1  (ok)
+----------------------------------------
+Action: TurnRight
+Step 116  Score -116.0  IN CAVE
+ 4 | .  .  .  G 
+ 3 | .  P  .  . 
+ 2 | .  P  W  P 
+ 1 | .  ^  .  . 
+      1  2  3  4
+Percept [Breeze]
+Reward -1  (ok)
+----------------------------------------
+Action: TurnRight
+Step 117  Score -117.0  IN CAVE
+ 4 | .  .  .  G 
+ 3 | .  P  .  . 
+ 2 | .  P  W  P 
+ 1 | .  >  .  . 
+      1  2  3  4
+Percept [Breeze]
+Reward -1  (ok)
+----------------------------------------
+Action: TurnRight
+Step 118  Score -118.0  IN CAVE
+ 4 | .  .  .  G 
+ 3 | .  P  .  . 
+ 2 | .  P  W  P 
+ 1 | .  v  .  . 
+      1  2  3  4
+Percept [Breeze]
+Reward -1  (ok)
+----------------------------------------
+Action: TurnRight
+Step 119  Score -119.0  IN CAVE
+ 4 | .  .  .  G 
+ 3 | .  P  .  . 
+ 2 | .  P  W  P 
+ 1 | .  <  .  . 
+      1  2  3  4
+Percept [Breeze]
+Reward -1  (ok)
+----------------------------------------
+Action: TurnRight
+Step 120  Score -120.0  IN CAVE
+ 4 | .  .  .  G 
+ 3 | .  P  .  . 
+ 2 | .  P  W  P 
+ 1 | .  ^  .  . 
+      1  2  3  4
+Percept [Breeze]
+Reward -1  (ok)
+----------------------------------------
+Action: TurnRight
+Step 121  Score -121.0  IN CAVE
+ 4 | .  .  .  G 
+ 3 | .  P  .  . 
+ 2 | .  P  W  P 
+ 1 | .  >  .  . 
+      1  2  3  4
+Percept [Breeze]
+Reward -1  (ok)
+----------------------------------------
+Action: TurnRight
+Step 122  Score -122.0  IN CAVE
+ 4 | .  .  .  G 
+ 3 | .  P  .  . 
+ 2 | .  P  W  P 
+ 1 | .  v  .  . 
+      1  2  3  4
+Percept [Breeze]
+Reward -1  (ok)
+----------------------------------------
+Action: TurnRight
+Step 123  Score -123.0  IN CAVE
+ 4 | .  .  .  G 
+ 3 | .  P  .  . 
+ 2 | .  P  W  P 
+ 1 | .  <  .  . 
+      1  2  3  4
+Percept [Breeze]
+Reward -1  (ok)
+----------------------------------------
+Action: TurnRight
+Step 124  Score -124.0  IN CAVE
+ 4 | .  .  .  G 
+ 3 | .  P  .  . 
+ 2 | .  P  W  P 
+ 1 | .  ^  .  . 
+      1  2  3  4
+Percept [Breeze]
+Reward -1  (ok)
+----------------------------------------
+Action: TurnRight
+Step 125  Score -125.0  IN CAVE
+ 4 | .  .  .  G 
+ 3 | .  P  .  . 
+ 2 | .  P  W  P 
+ 1 | .  >  .  . 
+      1  2  3  4
+Percept [Breeze]
+Reward -1  (ok)
+----------------------------------------
+Action: TurnRight
+Step 126  Score -126.0  IN CAVE
+ 4 | .  .  .  G 
+ 3 | .  P  .  . 
+ 2 | .  P  W  P 
+ 1 | .  v  .  . 
+      1  2  3  4
+Percept [Breeze]
+Reward -1  (ok)
+----------------------------------------
+Action: TurnRight
+Step 127  Score -127.0  IN CAVE
+ 4 | .  .  .  G 
+ 3 | .  P  .  . 
+ 2 | .  P  W  P 
+ 1 | .  <  .  . 
+      1  2  3  4
+Percept [Breeze]
+Reward -1  (ok)
+----------------------------------------
+Action: TurnRight
+Step 128  Score -128.0  IN CAVE
+ 4 | .  .  .  G 
+ 3 | .  P  .  . 
+ 2 | .  P  W  P 
+ 1 | .  ^  .  . 
+      1  2  3  4
+Percept [Breeze]
+Reward -1  (ok)
+----------------------------------------
+Action: TurnRight
+Step 129  Score -129.0  IN CAVE
+ 4 | .  .  .  G 
+ 3 | .  P  .  . 
+ 2 | .  P  W  P 
+ 1 | .  >  .  . 
+      1  2  3  4
+Percept [Breeze]
+Reward -1  (ok)
+----------------------------------------
+Action: TurnRight
+Step 130  Score -130.0  IN CAVE
+ 4 | .  .  .  G 
+ 3 | .  P  .  . 
+ 2 | .  P  W  P 
+ 1 | .  v  .  . 
+      1  2  3  4
+Percept [Breeze]
+Reward -1  (ok)
+----------------------------------------
+Action: TurnRight
+Step 131  Score -131.0  IN CAVE
+ 4 | .  .  .  G 
+ 3 | .  P  .  . 
+ 2 | .  P  W  P 
+ 1 | .  <  .  . 
+      1  2  3  4
+Percept [Breeze]
+Reward -1  (ok)
+----------------------------------------
+Action: TurnRight
+Step 132  Score -132.0  IN CAVE
+ 4 | .  .  .  G 
+ 3 | .  P  .  . 
+ 2 | .  P  W  P 
+ 1 | .  ^  .  . 
+      1  2  3  4
+Percept [Breeze]
+Reward -1  (ok)
+----------------------------------------
+Action: TurnRight
+Step 133  Score -133.0  IN CAVE
+ 4 | .  .  .  G 
+ 3 | .  P  .  . 
+ 2 | .  P  W  P 
+ 1 | .  >  .  . 
+      1  2  3  4
+Percept [Breeze]
+Reward -1  (ok)
+----------------------------------------
+Action: TurnRight
+Step 134  Score -134.0  IN CAVE
+ 4 | .  .  .  G 
+ 3 | .  P  .  . 
+ 2 | .  P  W  P 
+ 1 | .  v  .  . 
+      1  2  3  4
+Percept [Breeze]
+Reward -1  (ok)
+----------------------------------------
+Action: TurnRight
+Step 135  Score -135.0  IN CAVE
+ 4 | .  .  .  G 
+ 3 | .  P  .  . 
+ 2 | .  P  W  P 
+ 1 | .  <  .  . 
+      1  2  3  4
+Percept [Breeze]
+Reward -1  (ok)
+----------------------------------------
+Action: TurnRight
+Step 136  Score -136.0  IN CAVE
+ 4 | .  .  .  G 
+ 3 | .  P  .  . 
+ 2 | .  P  W  P 
+ 1 | .  ^  .  . 
+      1  2  3  4
+Percept [Breeze]
+Reward -1  (ok)
+----------------------------------------
+Action: TurnRight
+Step 137  Score -137.0  IN CAVE
+ 4 | .  .  .  G 
+ 3 | .  P  .  . 
+ 2 | .  P  W  P 
+ 1 | .  >  .  . 
+      1  2  3  4
+Percept [Breeze]
+Reward -1  (ok)
+----------------------------------------
+Action: TurnRight
+Step 138  Score -138.0  IN CAVE
+ 4 | .  .  .  G 
+ 3 | .  P  .  . 
+ 2 | .  P  W  P 
+ 1 | .  v  .  . 
+      1  2  3  4
+Percept [Breeze]
+Reward -1  (ok)
+----------------------------------------
+Action: TurnRight
+Step 139  Score -139.0  IN CAVE
+ 4 | .  .  .  G 
+ 3 | .  P  .  . 
+ 2 | .  P  W  P 
+ 1 | .  <  .  . 
+      1  2  3  4
+Percept [Breeze]
+Reward -1  (ok)
+----------------------------------------
+Action: TurnRight
+Step 140  Score -140.0  IN CAVE
+ 4 | .  .  .  G 
+ 3 | .  P  .  . 
+ 2 | .  P  W  P 
+ 1 | .  ^  .  . 
+      1  2  3  4
+Percept [Breeze]
+Reward -1  (ok)
+----------------------------------------
+Action: TurnRight
+Step 141  Score -141.0  IN CAVE
+ 4 | .  .  .  G 
+ 3 | .  P  .  . 
+ 2 | .  P  W  P 
+ 1 | .  >  .  . 
+      1  2  3  4
+Percept [Breeze]
+Reward -1  (ok)
+----------------------------------------
+Action: TurnRight
+Step 142  Score -142.0  IN CAVE
+ 4 | .  .  .  G 
+ 3 | .  P  .  . 
+ 2 | .  P  W  P 
+ 1 | .  v  .  . 
+      1  2  3  4
+Percept [Breeze]
+Reward -1  (ok)
+----------------------------------------
+Action: TurnRight
+Step 143  Score -143.0  IN CAVE
+ 4 | .  .  .  G 
+ 3 | .  P  .  . 
+ 2 | .  P  W  P 
+ 1 | .  <  .  . 
+      1  2  3  4
+Percept [Breeze]
+Reward -1  (ok)
+----------------------------------------
+Action: TurnRight
+Step 144  Score -144.0  IN CAVE
+ 4 | .  .  .  G 
+ 3 | .  P  .  . 
+ 2 | .  P  W  P 
+ 1 | .  ^  .  . 
+      1  2  3  4
+Percept [Breeze]
+Reward -1  (ok)
+----------------------------------------
+Action: TurnRight
+Step 145  Score -145.0  IN CAVE
+ 4 | .  .  .  G 
+ 3 | .  P  .  . 
+ 2 | .  P  W  P 
+ 1 | .  >  .  . 
+      1  2  3  4
+Percept [Breeze]
+Reward -1  (ok)
+----------------------------------------
+Action: TurnRight
+Step 146  Score -146.0  IN CAVE
+ 4 | .  .  .  G 
+ 3 | .  P  .  . 
+ 2 | .  P  W  P 
+ 1 | .  v  .  . 
+      1  2  3  4
+Percept [Breeze]
+Reward -1  (ok)
+----------------------------------------
+Action: TurnRight
+Step 147  Score -147.0  IN CAVE
+ 4 | .  .  .  G 
+ 3 | .  P  .  . 
+ 2 | .  P  W  P 
+ 1 | .  <  .  . 
+      1  2  3  4
+Percept [Breeze]
+Reward -1  (ok)
+----------------------------------------
+Action: TurnRight
+Step 148  Score -148.0  IN CAVE
+ 4 | .  .  .  G 
+ 3 | .  P  .  . 
+ 2 | .  P  W  P 
+ 1 | .  ^  .  . 
+      1  2  3  4
+Percept [Breeze]
+Reward -1  (ok)
+----------------------------------------
+Action: TurnRight
+Step 149  Score -149.0  IN CAVE
+ 4 | .  .  .  G 
+ 3 | .  P  .  . 
+ 2 | .  P  W  P 
+ 1 | .  >  .  . 
+      1  2  3  4
+Percept [Breeze]
+Reward -1  (ok)
+----------------------------------------
+Action: TurnRight
+Step 150  Score -150.0  IN CAVE
+ 4 | .  .  .  G 
+ 3 | .  P  .  . 
+ 2 | .  P  W  P 
+ 1 | .  v  .  . 
+      1  2  3  4
+Percept [Breeze]
+Reward -1  (ok)
+----------------------------------------
+Action: TurnRight
+Step 151  Score -151.0  IN CAVE
+ 4 | .  .  .  G 
+ 3 | .  P  .  . 
+ 2 | .  P  W  P 
+ 1 | .  <  .  . 
+      1  2  3  4
+Percept [Breeze]
+Reward -1  (ok)
+----------------------------------------
+Action: TurnRight
+Step 152  Score -152.0  IN CAVE
+ 4 | .  .  .  G 
+ 3 | .  P  .  . 
+ 2 | .  P  W  P 
+ 1 | .  ^  .  . 
+      1  2  3  4
+Percept [Breeze]
+Reward -1  (ok)
+----------------------------------------
+Action: TurnRight
+Step 153  Score -153.0  IN CAVE
+ 4 | .  .  .  G 
+ 3 | .  P  .  . 
+ 2 | .  P  W  P 
+ 1 | .  >  .  . 
+      1  2  3  4
+Percept [Breeze]
+Reward -1  (ok)
+----------------------------------------
+Action: TurnRight
+Step 154  Score -154.0  IN CAVE
+ 4 | .  .  .  G 
+ 3 | .  P  .  . 
+ 2 | .  P  W  P 
+ 1 | .  v  .  . 
+      1  2  3  4
+Percept [Breeze]
+Reward -1  (ok)
+----------------------------------------
+Action: TurnRight
+Step 155  Score -155.0  IN CAVE
+ 4 | .  .  .  G 
+ 3 | .  P  .  . 
+ 2 | .  P  W  P 
+ 1 | .  <  .  . 
+      1  2  3  4
+Percept [Breeze]
+Reward -1  (ok)
+----------------------------------------
+Action: TurnRight
+Step 156  Score -156.0  IN CAVE
+ 4 | .  .  .  G 
+ 3 | .  P  .  . 
+ 2 | .  P  W  P 
+ 1 | .  ^  .  . 
+      1  2  3  4
+Percept [Breeze]
+Reward -1  (ok)
+----------------------------------------
+Action: TurnRight
+Step 157  Score -157.0  IN CAVE
+ 4 | .  .  .  G 
+ 3 | .  P  .  . 
+ 2 | .  P  W  P 
+ 1 | .  >  .  . 
+      1  2  3  4
+Percept [Breeze]
+Reward -1  (ok)
+----------------------------------------
+Action: TurnRight
+Step 158  Score -158.0  IN CAVE
+ 4 | .  .  .  G 
+ 3 | .  P  .  . 
+ 2 | .  P  W  P 
+ 1 | .  v  .  . 
+      1  2  3  4
+Percept [Breeze]
+Reward -1  (ok)
+----------------------------------------
+Action: TurnRight
+Step 159  Score -159.0  IN CAVE
+ 4 | .  .  .  G 
+ 3 | .  P  .  . 
+ 2 | .  P  W  P 
+ 1 | .  <  .  . 
+      1  2  3  4
+Percept [Breeze]
+Reward -1  (ok)
+----------------------------------------
+Action: TurnRight
+Step 160  Score -160.0  IN CAVE
+ 4 | .  .  .  G 
+ 3 | .  P  .  . 
+ 2 | .  P  W  P 
+ 1 | .  ^  .  . 
+      1  2  3  4
+Percept [Breeze]
+Reward -1  (ok)
+----------------------------------------
+Action: TurnRight
+Step 161  Score -161.0  IN CAVE
+ 4 | .  .  .  G 
+ 3 | .  P  .  . 
+ 2 | .  P  W  P 
+ 1 | .  >  .  . 
+      1  2  3  4
+Percept [Breeze]
+Reward -1  (ok)
+----------------------------------------
+Action: TurnRight
+Step 162  Score -162.0  IN CAVE
+ 4 | .  .  .  G 
+ 3 | .  P  .  . 
+ 2 | .  P  W  P 
+ 1 | .  v  .  . 
+      1  2  3  4
+Percept [Breeze]
+Reward -1  (ok)
+----------------------------------------
+Action: TurnRight
+Step 163  Score -163.0  IN CAVE
+ 4 | .  .  .  G 
+ 3 | .  P  .  . 
+ 2 | .  P  W  P 
+ 1 | .  <  .  . 
+      1  2  3  4
+Percept [Breeze]
+Reward -1  (ok)
+----------------------------------------
+Action: TurnRight
+Step 164  Score -164.0  IN CAVE
+ 4 | .  .  .  G 
+ 3 | .  P  .  . 
+ 2 | .  P  W  P 
+ 1 | .  ^  .  . 
+      1  2  3  4
+Percept [Breeze]
+Reward -1  (ok)
+----------------------------------------
+Action: TurnRight
+Step 165  Score -165.0  IN CAVE
+ 4 | .  .  .  G 
+ 3 | .  P  .  . 
+ 2 | .  P  W  P 
+ 1 | .  >  .  . 
+      1  2  3  4
+Percept [Breeze]
+Reward -1  (ok)
+----------------------------------------
+Action: TurnRight
+Step 166  Score -166.0  IN CAVE
+ 4 | .  .  .  G 
+ 3 | .  P  .  . 
+ 2 | .  P  W  P 
+ 1 | .  v  .  . 
+      1  2  3  4
+Percept [Breeze]
+Reward -1  (ok)
+----------------------------------------
+Action: TurnRight
+Step 167  Score -167.0  IN CAVE
+ 4 | .  .  .  G 
+ 3 | .  P  .  . 
+ 2 | .  P  W  P 
+ 1 | .  <  .  . 
+      1  2  3  4
+Percept [Breeze]
+Reward -1  (ok)
+----------------------------------------
+Action: TurnRight
+Step 168  Score -168.0  IN CAVE
+ 4 | .  .  .  G 
+ 3 | .  P  .  . 
+ 2 | .  P  W  P 
+ 1 | .  ^  .  . 
+      1  2  3  4
+Percept [Breeze]
+Reward -1  (ok)
+----------------------------------------
+Action: TurnRight
+Step 169  Score -169.0  IN CAVE
+ 4 | .  .  .  G 
+ 3 | .  P  .  . 
+ 2 | .  P  W  P 
+ 1 | .  >  .  . 
+      1  2  3  4
+Percept [Breeze]
+Reward -1  (ok)
+----------------------------------------
+Action: TurnRight
+Step 170  Score -170.0  IN CAVE
+ 4 | .  .  .  G 
+ 3 | .  P  .  . 
+ 2 | .  P  W  P 
+ 1 | .  v  .  . 
+      1  2  3  4
+Percept [Breeze]
+Reward -1  (ok)
+----------------------------------------
+Action: TurnRight
+Step 171  Score -171.0  IN CAVE
+ 4 | .  .  .  G 
+ 3 | .  P  .  . 
+ 2 | .  P  W  P 
+ 1 | .  <  .  . 
+      1  2  3  4
+Percept [Breeze]
+Reward -1  (ok)
+----------------------------------------
+Action: TurnRight
+Step 172  Score -172.0  IN CAVE
+ 4 | .  .  .  G 
+ 3 | .  P  .  . 
+ 2 | .  P  W  P 
+ 1 | .  ^  .  . 
+      1  2  3  4
+Percept [Breeze]
+Reward -1  (ok)
+----------------------------------------
+Action: TurnRight
+Step 173  Score -173.0  IN CAVE
+ 4 | .  .  .  G 
+ 3 | .  P  .  . 
+ 2 | .  P  W  P 
+ 1 | .  >  .  . 
+      1  2  3  4
+Percept [Breeze]
+Reward -1  (ok)
+----------------------------------------
+Action: TurnRight
+Step 174  Score -174.0  IN CAVE
+ 4 | .  .  .  G 
+ 3 | .  P  .  . 
+ 2 | .  P  W  P 
+ 1 | .  v  .  . 
+      1  2  3  4
+Percept [Breeze]
+Reward -1  (ok)
+----------------------------------------
+Action: TurnRight
+Step 175  Score -175.0  IN CAVE
+ 4 | .  .  .  G 
+ 3 | .  P  .  . 
+ 2 | .  P  W  P 
+ 1 | .  <  .  . 
+      1  2  3  4
+Percept [Breeze]
+Reward -1  (ok)
+----------------------------------------
+Action: TurnRight
+Step 176  Score -176.0  IN CAVE
+ 4 | .  .  .  G 
+ 3 | .  P  .  . 
+ 2 | .  P  W  P 
+ 1 | .  ^  .  . 
+      1  2  3  4
+Percept [Breeze]
+Reward -1  (ok)
+----------------------------------------
+Action: TurnRight
+Step 177  Score -177.0  IN CAVE
+ 4 | .  .  .  G 
+ 3 | .  P  .  . 
+ 2 | .  P  W  P 
+ 1 | .  >  .  . 
+      1  2  3  4
+Percept [Breeze]
+Reward -1  (ok)
+----------------------------------------
+Action: TurnRight
+Step 178  Score -178.0  IN CAVE
+ 4 | .  .  .  G 
+ 3 | .  P  .  . 
+ 2 | .  P  W  P 
+ 1 | .  v  .  . 
+      1  2  3  4
+Percept [Breeze]
+Reward -1  (ok)
+----------------------------------------
+Action: TurnRight
+Step 179  Score -179.0  IN CAVE
+ 4 | .  .  .  G 
+ 3 | .  P  .  . 
+ 2 | .  P  W  P 
+ 1 | .  <  .  . 
+      1  2  3  4
+Percept [Breeze]
+Reward -1  (ok)
+----------------------------------------
+Action: TurnRight
+Step 180  Score -180.0  IN CAVE
+ 4 | .  .  .  G 
+ 3 | .  P  .  . 
+ 2 | .  P  W  P 
+ 1 | .  ^  .  . 
+      1  2  3  4
+Percept [Breeze]
+Reward -1  (ok)
+----------------------------------------
+Action: TurnRight
+Step 181  Score -181.0  IN CAVE
+ 4 | .  .  .  G 
+ 3 | .  P  .  . 
+ 2 | .  P  W  P 
+ 1 | .  >  .  . 
+      1  2  3  4
+Percept [Breeze]
+Reward -1  (ok)
+----------------------------------------
+Action: TurnRight
+Step 182  Score -182.0  IN CAVE
+ 4 | .  .  .  G 
+ 3 | .  P  .  . 
+ 2 | .  P  W  P 
+ 1 | .  v  .  . 
+      1  2  3  4
+Percept [Breeze]
+Reward -1  (ok)
+----------------------------------------
+Action: TurnRight
+Step 183  Score -183.0  IN CAVE
+ 4 | .  .  .  G 
+ 3 | .  P  .  . 
+ 2 | .  P  W  P 
+ 1 | .  <  .  . 
+      1  2  3  4
+Percept [Breeze]
+Reward -1  (ok)
+----------------------------------------
+Action: TurnRight
+Step 184  Score -184.0  IN CAVE
+ 4 | .  .  .  G 
+ 3 | .  P  .  . 
+ 2 | .  P  W  P 
+ 1 | .  ^  .  . 
+      1  2  3  4
+Percept [Breeze]
+Reward -1  (ok)
+----------------------------------------
+Action: TurnRight
+Step 185  Score -185.0  IN CAVE
+ 4 | .  .  .  G 
+ 3 | .  P  .  . 
+ 2 | .  P  W  P 
+ 1 | .  >  .  . 
+      1  2  3  4
+Percept [Breeze]
+Reward -1  (ok)
+----------------------------------------
+Action: TurnRight
+Step 186  Score -186.0  IN CAVE
+ 4 | .  .  .  G 
+ 3 | .  P  .  . 
+ 2 | .  P  W  P 
+ 1 | .  v  .  . 
+      1  2  3  4
+Percept [Breeze]
+Reward -1  (ok)
+----------------------------------------
+Action: TurnRight
+Step 187  Score -187.0  IN CAVE
+ 4 | .  .  .  G 
+ 3 | .  P  .  . 
+ 2 | .  P  W  P 
+ 1 | .  <  .  . 
+      1  2  3  4
+Percept [Breeze]
+Reward -1  (ok)
+----------------------------------------
+Action: TurnRight
+Step 188  Score -188.0  IN CAVE
+ 4 | .  .  .  G 
+ 3 | .  P  .  . 
+ 2 | .  P  W  P 
+ 1 | .  ^  .  . 
+      1  2  3  4
+Percept [Breeze]
+Reward -1  (ok)
+----------------------------------------
+Action: TurnRight
+Step 189  Score -189.0  IN CAVE
+ 4 | .  .  .  G 
+ 3 | .  P  .  . 
+ 2 | .  P  W  P 
+ 1 | .  >  .  . 
+      1  2  3  4
+Percept [Breeze]
+Reward -1  (ok)
+----------------------------------------
+Action: TurnRight
+Step 190  Score -190.0  IN CAVE
+ 4 | .  .  .  G 
+ 3 | .  P  .  . 
+ 2 | .  P  W  P 
+ 1 | .  v  .  . 
+      1  2  3  4
+Percept [Breeze]
+Reward -1  (ok)
+----------------------------------------
+Action: TurnRight
+Step 191  Score -191.0  IN CAVE
+ 4 | .  .  .  G 
+ 3 | .  P  .  . 
+ 2 | .  P  W  P 
+ 1 | .  <  .  . 
+      1  2  3  4
+Percept [Breeze]
+Reward -1  (ok)
+----------------------------------------
+Action: TurnRight
+Step 192  Score -192.0  IN CAVE
+ 4 | .  .  .  G 
+ 3 | .  P  .  . 
+ 2 | .  P  W  P 
+ 1 | .  ^  .  . 
+      1  2  3  4
+Percept [Breeze]
+Reward -1  (ok)
+----------------------------------------
+Action: TurnRight
+Step 193  Score -193.0  IN CAVE
+ 4 | .  .  .  G 
+ 3 | .  P  .  . 
+ 2 | .  P  W  P 
+ 1 | .  >  .  . 
+      1  2  3  4
+Percept [Breeze]
+Reward -1  (ok)
+----------------------------------------
+Action: TurnRight
+Step 194  Score -194.0  IN CAVE
+ 4 | .  .  .  G 
+ 3 | .  P  .  . 
+ 2 | .  P  W  P 
+ 1 | .  v  .  . 
+      1  2  3  4
+Percept [Breeze]
+Reward -1  (ok)
+----------------------------------------
+Action: TurnRight
+Step 195  Score -195.0  IN CAVE
+ 4 | .  .  .  G 
+ 3 | .  P  .  . 
+ 2 | .  P  W  P 
+ 1 | .  <  .  . 
+      1  2  3  4
+Percept [Breeze]
+Reward -1  (ok)
+----------------------------------------
+Action: TurnRight
+Step 196  Score -196.0  IN CAVE
+ 4 | .  .  .  G 
+ 3 | .  P  .  . 
+ 2 | .  P  W  P 
+ 1 | .  ^  .  . 
+      1  2  3  4
+Percept [Breeze]
+Reward -1  (ok)
+----------------------------------------
+Action: TurnRight
+Step 197  Score -197.0  IN CAVE
+ 4 | .  .  .  G 
+ 3 | .  P  .  . 
+ 2 | .  P  W  P 
+ 1 | .  >  .  . 
+      1  2  3  4
+Percept [Breeze]
+Reward -1  (ok)
+----------------------------------------
+Action: TurnRight
+Step 198  Score -198.0  IN CAVE
+ 4 | .  .  .  G 
+ 3 | .  P  .  . 
+ 2 | .  P  W  P 
+ 1 | .  v  .  . 
+      1  2  3  4
+Percept [Breeze]
+Reward -1  (ok)
+----------------------------------------
+Action: TurnRight
+Step 199  Score -199.0  IN CAVE
+ 4 | .  .  .  G 
+ 3 | .  P  .  . 
+ 2 | .  P  W  P 
+ 1 | .  <  .  . 
+      1  2  3  4
+Percept [Breeze]
+Reward -1  (ok)
+----------------------------------------
+Action: TurnRight
+Step 200  Score -200.0  IN CAVE
+ 4 | .  .  .  G 
+ 3 | .  P  .  . 
+ 2 | .  P  W  P 
+ 1 | .  ^  .  . 
+      1  2  3  4
+Percept [Breeze]
+Reward -1  (max_steps)
+----------------------------------------
+Result: stopped without gold  steps=200  score=-200.0

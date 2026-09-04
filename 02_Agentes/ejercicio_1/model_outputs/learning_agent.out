@@ -1,0 +1,27 @@
+Trained 1500 episodes on config/mi_cueva_4x4.yaml
+Mean score (all): -16.5
+Mean score (last 50): -2.6
+Q-table size: 360 state-action pairs
+
+--- Greedy demo (epsilon = 0) ---
+
+Step 0  Score 0  IN CAVE
+ 4 | .  .  .  G 
+ 3 | .  P  .  . 
+ 2 | .  P  W  P 
+ 1 | >  .  .  . 
+      1  2  3  4
+Percept [None]
+Agent: learning
+----------------------------------------
+Action: Climb
+Step 1  Score -1.0  CLIMBED
+ 4 | .  .  .  G 
+ 3 | .  P  .  . 
+ 2 | .  P  W  P 
+ 1 | .  .  .  . 
+      1  2  3  4
+Percept [None]
+Reward -1  (climbed_empty)
+----------------------------------------
+Result: climbed without gold  steps=1  score=-1.0

@@ -1,0 +1,7 @@
+python 01_wumpus_world.py --config config/mi_cueva_4x4.yaml
+Step 0  Score 0  IN CAVE
+ 4 | .  .  .  G 
+ 3 | .  P  .  . 
+ 2 | .  P  W  P 
+ 1 | >  .  .  . 
+      1  2  3  4
