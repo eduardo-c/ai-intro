@@ -11,6 +11,10 @@ Se trabajó en **Google Colab** con copias de las dos notebooks `04 Multilayer p
 
 **Modificaciones en la notebook 02 (Keras):** dos `layers.Dense(3, activation="sigmoid")` extra antes de la salida (`model_deep` con `layer1 … layer4`); `model.summary()` muestra **4 capas Dense**. Se creó un optimizador `SGD`/`MSE` nuevos para el modelo profundo (Keras no permite reutilizar un optimizer ya construido sobre otro modelo).
 
+**Links de colab:**
+- https://colab.research.google.com/drive/1JOERCs90zhkj7LTVb7H451XBChOBp6b-
+- https://colab.research.google.com/drive/17OJGjvxGsp21L0knvvm7NwiX-wIwnm21#scrollTo=viTl2uNDXTX5
+
 ## 2. Resultados
 
 | Corrida | Implementación | Topología | Error inicial | Error final (época 500) |
