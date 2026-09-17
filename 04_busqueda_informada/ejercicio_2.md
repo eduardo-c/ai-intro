@@ -118,6 +118,17 @@ usan el mismo A* y el mismo grafo.
   frontera por `f = g + h` con haversine) sobre el grafo incrustado, por eso el
   costo coincide con el CLI.
 
+## Porque haversine es admisible?
+
+Porque aquí el costo real de las aristas también es haversine: edges[].km se calculó con la    
+misma fórmula de gran círculo. Para cualquier camino n → … → goal, la suma de las aristas      
+que lo componen es la longitud de una poligonal sobre la superficie; la distancia haversine    
+directa n→goal es la distancia en línea recta sobre esa superficie, que por la desigualdad     
+del triángulo nunca es mayor que la poligonal:                                                  
+                                                                                                    
+Como h nunca sobrestima el costo mínimo real, es admisible, y además es consistente (h(n) ≤    
+step_cost(n,a) + h(a) porque step_cost = hav(n,a)).
+
 ## Advertencia
 
 **No regeneres** el grafo con `generate_mexico_graph.py`: ese script reescribe
